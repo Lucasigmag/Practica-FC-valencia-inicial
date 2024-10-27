@@ -1,0 +1,24 @@
+h1#adjust{
+    text-align: center;
+    background-color: orange;
+}
+
+h2.cent{
+    text-align: center;
+}
+
+div.align{
+    text-align: center;
+    background-color:coral;
+}
+
+a.separar{
+    margin: 10%;
+}
+
+img.center{
+    display: block;
+    margin: auto;
+    width: 50%;
+    height: 50%;
+}
